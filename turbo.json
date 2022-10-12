@@ -7,8 +7,7 @@
     },
     "test": {
       "dependsOn": ["^build"],
-      "outputs": [],
-      "cache": false
+      "outputs": []
     },
     "dev": {
       "cache": false
