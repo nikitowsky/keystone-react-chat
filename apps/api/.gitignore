@@ -1,0 +1,7 @@
+# Dependencies
+node_modules
+.keystone/admin
+
+# MISC
+*.db
+*.log

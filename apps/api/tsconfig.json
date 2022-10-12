@@ -1,0 +1,3 @@
+{
+  "extends": "@keychat/tsconfig/tsconfig.keystone.json"
+}
